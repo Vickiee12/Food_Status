@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190573314980",
+    "project_id": "food-status-d5abd",
+    "storage_bucket": "food-status-d5abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190573314980:android:3df0c62d029cdcf96db731",
+        "android_client_info": {
+          "package_name": "com.modcom.victornjagi.foodstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190573314980-k6lus8qt7ag8hh324h1mng4k9rhul3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-KjleooZkZ3QQuqCcU4rvEx_d6Qm1vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190573314980-k6lus8qt7ag8hh324h1mng4k9rhul3gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
